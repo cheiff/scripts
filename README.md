@@ -1,4 +1,4 @@
-dtcscripts
+scripts
 ==========
 
 Basic scripts
