@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ $# = 1 ]; then
-  echo "git add ."
+  echo "git add -A ."
   git add .
   echo "git commit -a -m $1"
   git commit -a -m "$1"
